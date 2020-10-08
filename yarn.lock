@@ -3760,11 +3760,12 @@ ember-disable-prototype-extensions@1.1.2:
   dependencies:
     bower "^1.8.0"
 
-ember-disable-proxy-controllers@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/ember-disable-proxy-controllers/-/ember-disable-proxy-controllers-1.0.1.tgz#1254eeec0ba025c24eb9e8da611afa7b38754281"
+ember-disable-proxy-controllers@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/ember-disable-proxy-controllers/-/ember-disable-proxy-controllers-1.0.2.tgz#923b2ada09fc1a87ba5728ca11eb8b3ef84f4cbe"
+  integrity sha512-n3ldcJ7QtowV30tTEOkc/LEC1Xssqn8rZ2DDYJLVjMZIa32+p0TbJBXr+8kvThgzi5EZACNoI4Y3cLRW5OLJnw==
   dependencies:
-    ember-cli-babel "^5.0.0"
+    ember-cli-babel "^6.16.0"
 
 ember-export-application-global@2.0.1:
   version "2.0.1"

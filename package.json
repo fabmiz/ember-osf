@@ -54,7 +54,7 @@
     "ember-data": "2.11.3",
     "ember-data-factory-guy": "^2.13.7",
     "ember-disable-prototype-extensions": "1.1.2",
-    "ember-disable-proxy-controllers": "1.0.1",
+    "ember-disable-proxy-controllers": "1.0.2",
     "ember-export-application-global": "2.0.1",
     "ember-faker": "1.1.1",
     "ember-font-awesome": "3.1.1",
